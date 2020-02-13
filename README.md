@@ -10,6 +10,6 @@ Script that cleans repositories of binary files
 
 ## Architecture
 
---> clean.py    = Main file
---> test        = Test git directory to run script on
---> test - Copy = Backup of test folder.  Replace after testing script
+    --> clean.py    = Main file
+    --> test        = Test git directory to run script on
+    --> test - Copy = Backup of test folder.  Replace after testing script
