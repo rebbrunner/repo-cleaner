@@ -22,12 +22,12 @@ class Cleaner:
 
 # Test drive code
 # Uncomment code below to test
-parser = argparse.ArgumentParser()
-parser.add_argument('root')
-parser.add_argument('match')
-args = parser.parse_args()
-root = args.root
-match = args.match
+# parser = argparse.ArgumentParser()
+# parser.add_argument('root')
+# parser.add_argument('match')
+# args = parser.parse_args()
+# root = args.root
+# match = args.match
 
-cleaner = Cleaner(root, match)
-cleaner.clean()
+# cleaner = Cleaner(root, match)
+# cleaner.clean()
