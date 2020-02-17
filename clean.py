@@ -12,8 +12,6 @@ class Cleaner:
     def __init__(self, root, match):
         self.root = root
         self.match = match
-        self.file_list = []
-        self.names = []
     
     def clean(self):
         os.chdir(self.root)
