@@ -8,6 +8,11 @@ Date: 13 February 2020
 
 Script that cleans repositories of binary files
 
+## Requirements
+
+- git-filter-repo (https://github.com/newren/git-filter-repo) must be installed to path
+- python 3.6+
+
 ## Architecture
 
     --> clean.py    = Main file
